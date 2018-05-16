@@ -4,7 +4,8 @@ nav{
     float:left;
     font-family:arial;
     background-color:#ff0000;
-    margin:0px 1000px 0px 1000px;
+    margin:0px 500px 0px 500px;
+    border-radius:25px;
 
 
 }
@@ -12,4 +13,10 @@ p {
     font-family:Arial;
     font-size:20px;
     margin:0px 0px 0px 25px;
+ }
+ body{
+     background-color:#CCCC00;
+     width:70%;
+     
+
  }
