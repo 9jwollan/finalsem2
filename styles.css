@@ -9,7 +9,7 @@ width:75%;
 color:#222222;}
 
 p {font-family:consolas;
-font-size:10pt;
+font-size:18pt;
 line-height:18pt;
 width:75%;
 color:#444444}
@@ -22,29 +22,30 @@ color:#444444}
 
 
 
-navigation {font-family:consolas;
-font-size:10pts;
-width:75%;
+nav {font-family:consolas;
+font-size:30pt;
+
 background:#000000;
-padding:5pt;
-text-align:center;}
+padding:15pt;
+text-align:center;
+}
 
 a {color:#00ff00;
 text-decoration:none;}
 
-a:vistied {color:#00ff00;}
+a:vistied {color:#00ffff;}
 
 a:hover {color:#D4Af37;}
 
 div ul {list-style-type:none;
 margin: 0px 0px 0px 0px;
-wideth: 200px;
+width: 200px;
 background-color:#444444}
 
 
 div li {display: block;
 padding: 8px 10px 8px 18px;
-text-decoration: none;
+text-decoration:none;
 border: 1px solid #00ff00;}
 
 
@@ -52,11 +53,15 @@ div{float: left;
 margin: 0px 8px 0px 0px;)}
 
 body {
-width:80%;
+
 background:#C5B358;
 
 }
 
 title {
     text-align:center
+}
+
+b {text-size:30pt;
+
 }
