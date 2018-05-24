@@ -11,14 +11,14 @@ color:#222222;}
 p {font-family:courier;
 font-size:18pt;
 line-height:18pt;
-width:60%;
+width:55%;
 color:#444444;}
 
-ul {font-family:courier;
-font-size:8pt;
-line-height:18pt;
-width:75%;
-color:#444444;}
+img {float:right; width:250px; length: 250px;
+padding:25pt;
+}
+
+
 
 nav {font-family:courier;
 font-size:30pt;
@@ -33,21 +33,16 @@ a:vistied {color:#9b30bf;}
 
 a:hover {color:#9b30bf;}
 
-div ul {list-style-type:none;
-margin: 0px 0px 0px 0px;
-width: 200px;
-background-color:#444444;}
 
-div li {display: block;
-padding: 8px 10px 8px 18px;
-text-decoration:none;
-border: 1px solid #00ff00;}
 
-div {float: left;
-margin: 0px 8px 0px 0px;}
+
 
 body {background:#D4AF37;}
 
 title {text-align:center;}
 
-b {text-size:30pt;}
+
+
+.one {margin: 0px 0px 0px 500px;
+float:right;
+padding:100pt;}
